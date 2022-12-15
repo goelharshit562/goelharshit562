@@ -1,6 +1,6 @@
-[![MasterHead](https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg)](https://github.com/goelharshit562)
+[![MasterHead]([https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F715087247079699474%2F&psig=AOvVaw3hHnKygoFB8TB9w3JYmnUs&ust=1671217347499000&source=images&cd=vfe&ved=2ahUKEwjy5f7zp_z7AhVJgGMGHanADpUQjRx6BAgAEAo))](https://github.com/goelharshit562)
 <h1 align="center">Hi 👋, I'm Harshit Goel</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goelharshit562&label=Profile%20views&color=0e75b6&style=flat" alt="goelharshit562" /> </p>

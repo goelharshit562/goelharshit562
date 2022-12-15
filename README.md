@@ -1,4 +1,4 @@
- [![MasterHead](https://previews.123rf.com/images/flybird163/flybird1631508/flybird163150800897/44052384-software-developer-text-write-on-paper.jpg](https://github.com/goelharshit562)
+ [![MasterHead](https://previews.123rf.com/images/flybird163/flybird1631508/flybird163150800897/44052384-software-developer-text-write-on-paper.jpg]
 <h1 align="center">Hi 👋, I'm Harshit Goel</h1>
 <h3 align="center">A passionate Data Analyst and Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/harshitgoel56" target="blank"><img src="https://img.shields.io/twitter/follow/nonstopable121?logo=twitter&style=for-the-badge" alt="nonstopable121" /></a> </p>
 
-- 🔭 I’m currently working on **project based on Data Analytics, Data science, Machine Learning**
+- 🔭 I’m currently working on **project based on Data Analytics, Data science, Machine Learning** and **Backend Development**
 
-- 🌱 I’m currently learning **Machine Learning along with Statistics** and also learning Backend development
+- 🌱 I’m currently learning **Machine Learning along with Statistics** and also **learning Backend Development (Node.js, javascript)**
 
 - 💬 Ask me about **Python and Data Analysis**
 

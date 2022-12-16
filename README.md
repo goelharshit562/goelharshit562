@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python and Data Analysis**
 
-- 📫 How to reach me **goelharshit561@gmail.com**
+- 📫 How to reach me **goelharshit562@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

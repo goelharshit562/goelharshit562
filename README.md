@@ -1,17 +1,17 @@
 <img src="https://previews.123rf.com/images/flybird163/flybird1631508/flybird163150800897/44052384-software-developer-text-write-on-paper.jpg" height="300" width="1000" >
 <h1 align="center">Hi 👋, I'm Harshit Goel</h1>
-<h3 align="center">A passionate Data Analyst and Backend Developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goelharshit562&label=Profile%20views&color=0e75b6&style=flat" alt="goelharshit562" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshitgoel56" target="blank"><img src="https://img.shields.io/twitter/follow/nonstopable121?logo=twitter&style=for-the-badge" alt="nonstopable121" /></a> </p>
 
-- 🔭 I’m currently working on **project based on Data Analytics, Data science, Machine Learning** and **Backend Development**
+- 🔭 I’m currently working on **project based on Data Analytics, Data Engineer**
 
-- 🌱 I’m currently learning **Machine Learning along with Statistics** and also **learning Backend Development (Node.js, javascript)**
+- 🌱 I’m currently learning **Databricks, pyspark** and also **learning snowflake**
 
-- 💬 Ask me about **Python and Data Analysis**
+- 💬 Ask me about **Python and Data Engineer**
 
 - 📫 How to reach me **goelharshit562@gmail.com**
 
